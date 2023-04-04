@@ -1,4 +1,9 @@
+body 
+{
+  font-family: "Courier New", Courier, monospace;
+}
 td 
 {
   padding-left: 20px;
 }
+
