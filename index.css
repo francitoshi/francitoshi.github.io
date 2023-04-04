@@ -2,6 +2,12 @@ body
 {
   font-family: "Courier New", Courier, monospace;
 }
+th 
+{
+  padding-left: 20px;
+  font-weight: bold;
+}
+
 td 
 {
   padding-left: 20px;
